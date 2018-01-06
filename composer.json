@@ -1,0 +1,11 @@
+{
+    "name": "yuriy/sandbox",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yuriy",
+            "email": "glwinian@gmail.com"
+        }
+    ],
+    "require": {}
+}
